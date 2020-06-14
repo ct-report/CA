@@ -1,7 +1,34 @@
 # CA
 Contact Tracing - Canada
 
-**CovidShield** - Decentralized solution developed by Shopify volunteers. It relies on GAEN - Google+Apple Exposure Notifications API.
+Canada doesn't have officially a national app yet.
+
+**ABTraceTogether** - provided by the the Government of Alberta Health Services. It's a BT proximity tracing solution based on a fork of [OpenTrace](https://github.com/ct-report/opentrace) = data log/collection are decentralized (device) and ID & contact tracing/match management are centralized (backend).
+
+When an user tests positive, he's asked to upload the collected data from his device to the backend.
+
+It requires mobile phone number registration. Only +1 numbers (Canada and USA) are allowed.
+
+Play Store | https://play.google.com/store/apps/details?id=ca.albertahealthservices.contacttracing
+-----------|--------------------------------------------------------------------------------------
+Sources | https://github.com/abopengov
+Website | https://www.alberta.ca/ab-trace-together.aspx
+
+- APKLAB Analysis
+
+Build | Link
+------|-----
+1.1.0 #6 | https://apklab.io/apk.html?hash=ce93c834b01b38f30910cc23d803bbce9bc78546b5fde52ff37a73af5cd26013
+
+- JoeSandbox Report
+
+Build | Link
+------|-----
+1.1.0 #6 | https://www.joesandbox.com/analysis/238305/0/html
+
+-----------------------------------------------------
+
+**CovidShield** - fully decentralized solution developed by Shopify volunteers. It relies indeed on GAEN - Google+Apple Exposure Notifications API.
 
 Still under development & not officially endorsed yet.
 
